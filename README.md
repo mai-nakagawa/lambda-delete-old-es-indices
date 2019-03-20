@@ -1,6 +1,6 @@
 # lambda-delete-old-es-indices
 
-This is a lambda function that deletes indices of Elasticsearch making use of elasticsearch-curator Python API.
+This is a lambda function of AWS Lambda. It deletes indices of Elasticsearch making use of elasticsearch-curator Python API.
 
 # How to run on AWS Lambda
 1. `pip install requests_aws4auth -t .`
